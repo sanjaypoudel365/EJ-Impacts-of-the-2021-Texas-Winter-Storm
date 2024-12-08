@@ -1,4 +1,4 @@
-# Analysis of Impacts of the 2021 Texas Winter Storm
+# Analysis of the EJ Impacts of the 2021 Texas Winter Storm
 
 Extreme weather events are becoming more frequent and intense due to climate change, causing significant disruptions to infrastructure and society. In February 2021, Texas experienced a severe power crisis caused by three successive winter storms (February 10–11, 13–17, and 15–20).
 
